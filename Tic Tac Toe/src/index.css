@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Cambay:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+body{
+    width: 100%;
+    height: 100%;
+    background: -webkit-gradient(linear, left top, left bottom, from(#2f2e2e), to(#656565)) fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Cambay", sans-serif;
+    font-weight: 400;
+}    
